@@ -1,10 +1,5 @@
 from shapes import*
 sha=shapes
-"""equi=equilateral_triangle()
-rtt=right_angle_triangle()
-ret=reverse_equi_traingle()
-rhm=rhombus()
-sq=square()"""
 if __name__=='__main__' :
     print("\t\t_______THESE ARE THE SHAPES WE HAVE______")
     while 1==1 :
