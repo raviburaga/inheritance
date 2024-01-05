@@ -1,3 +1,4 @@
+# ENledhu bayya just e comment okkati add chesa
 class shapes :
     def __init__(self) :
         self.n=10
