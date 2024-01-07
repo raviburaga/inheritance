@@ -1,4 +1,4 @@
-# ENledhu bayya just e comment okkati add chesa
+# Mundhu pettina comment tisesa anthey
 class shapes :
     def __init__(self) :
         self.n=10
